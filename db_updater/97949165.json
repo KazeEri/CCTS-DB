@@ -1,0 +1,17 @@
+{
+  "card_name": "Lyrilusc - Turquoise Warbler",
+  "card_type": "Monster",
+  "card_attribute": "WIND",
+  "card_types": [
+    "Winged Beast",
+    "Effect"
+  ],
+  "card_level": "1",
+  "card_vals": [
+    "100",
+    "100"
+  ],
+  "card_text": [
+    "If you control no monsters, you can Special Summon this card (from your hand). If this card is Special Summoned from the hand: You can Special Summon 1 \"Lyrilusc\" monster from your hand or GY. You can only use this effect of \"Lyrilusc - Turquoise Warbler\" once per turn."
+  ]
+}
