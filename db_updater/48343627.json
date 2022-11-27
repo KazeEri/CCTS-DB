@@ -1,0 +1,17 @@
+{
+  "card_name": "Grave Squirmer",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Fiend",
+    "Effect"
+  ],
+  "card_level": "1",
+  "card_vals": [
+    "0",
+    "0"
+  ],
+  "card_text": [
+    "If this card is destroyed by battle and sent to the GY: Target 1 card on the field; destroy that target."
+  ]
+}

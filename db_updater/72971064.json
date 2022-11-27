@@ -1,0 +1,19 @@
+{
+  "card_name": "Lyrilusc - Ensemblue Robin",
+  "card_type": "Monster",
+  "card_attribute": "WIND",
+  "card_types": [
+    "Winged Beast",
+    "Xyz",
+    "Effect"
+  ],
+  "card_rank": "1",
+  "card_vals": [
+    "0",
+    "0"
+  ],
+  "card_text": [
+    "2+ Level 1 monsters",
+    "Gains 500 ATK for each material attached to it. If your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card, then target 1 of those Special Summoned monsters; return it to the hand. If this card in your possession is sent to your GY by an opponent's card: You can target 1 other \"Lyrilusc\" monster in your GY; add it to your hand."
+  ]
+}

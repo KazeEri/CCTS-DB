@@ -1,0 +1,17 @@
+{
+  "card_name": "Exploder Dragon",
+  "card_type": "Monster",
+  "card_attribute": "EARTH",
+  "card_types": [
+    "Dragon",
+    "Effect"
+  ],
+  "card_level": "3",
+  "card_vals": [
+    "1000",
+    "0"
+  ],
+  "card_text": [
+    "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card."
+  ]
+}

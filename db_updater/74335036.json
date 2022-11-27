@@ -1,0 +1,9 @@
+{
+  "card_name": "Fusion Substitute",
+  "card_type": "Spell",
+  "card_property": "Normal",
+  "card_text": [
+    "(This card is always treated as \"Polymerization\".)",
+    "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card."
+  ]
+}

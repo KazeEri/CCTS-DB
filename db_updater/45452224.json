@@ -1,0 +1,18 @@
+{
+  "card_name": "Kinka-byo",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Beast",
+    "Spirit",
+    "Effect"
+  ],
+  "card_level": "1",
+  "card_vals": [
+    "400",
+    "200"
+  ],
+  "card_text": [
+    "Cannot be Special Summoned. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your GY; Special Summon that target, but banish it when this card leaves the field. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand."
+  ]
+}

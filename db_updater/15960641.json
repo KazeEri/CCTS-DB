@@ -1,0 +1,17 @@
+{
+  "card_name": "Mirage Dragon",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Dragon",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1600",
+    "600"
+  ],
+  "card_text": [
+    "Your opponent cannot activate Trap Cards during the Battle Phase."
+  ]
+}

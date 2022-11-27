@@ -1,0 +1,21 @@
+{
+  "card_name": "Salamangreat Almiraj",
+  "card_type": "Monster",
+  "card_attribute": "FIRE",
+  "card_types": [
+    "Cyberse",
+    "Link",
+    "Effect"
+  ],
+  "card_arrows": [
+    "Bottom-Right"
+  ],
+  "card_vals": [
+    "0",
+    "1"
+  ],
+  "card_text": [
+    "1 Normal Summoned monster with 1000 or less ATK",
+    "(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Salamangreat Almiraj\" once per turn."
+  ]
+}

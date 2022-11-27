@@ -1,0 +1,17 @@
+{
+  "card_name": "Ancient Dragon",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Dragon",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1400",
+    "1300"
+  ],
+  "card_text": [
+    "When this card inflicts battle damage to your opponent by a direct attack: You can increase this card's Level by 1 and ATK by 500."
+  ]
+}

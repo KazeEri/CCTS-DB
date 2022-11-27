@@ -1,0 +1,17 @@
+{
+  "card_name": "Axe Dragonute",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Dragon",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "2000",
+    "1200"
+  ],
+  "card_text": [
+    "If this card attacks, it is changed to Defense Position at the end of the Damage Step."
+  ]
+}

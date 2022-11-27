@@ -1,0 +1,17 @@
+{
+  "card_name": "Fabled Ashenveil",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Fiend",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1600",
+    "1200"
+  ],
+  "card_text": [
+    "Once per battle, if this card battles, during damage calculation (Quick Effect): You can send 1 card from your hand to the GY; this card gains 600 ATK during that damage calculation only."
+  ]
+}

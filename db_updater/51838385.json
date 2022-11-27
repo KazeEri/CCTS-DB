@@ -1,0 +1,17 @@
+{
+  "card_name": "Theban Nightmare",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Fiend",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1500",
+    "500"
+  ],
+  "card_text": [
+    "Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones."
+  ]
+}

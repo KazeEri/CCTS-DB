@@ -1,0 +1,17 @@
+{
+  "card_name": "Odd-Eyes Dragon",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Dragon",
+    "Effect"
+  ],
+  "card_level": "7",
+  "card_vals": [
+    "2500",
+    "2000"
+  ],
+  "card_text": [
+    "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard."
+  ]
+}

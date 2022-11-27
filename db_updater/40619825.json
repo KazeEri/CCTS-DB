@@ -1,0 +1,9 @@
+{
+  "card_name": "Axe of Despair",
+  "card_type": "Spell",
+  "card_property": "Equip",
+  "card_text": [
+    "(This card is always treated as an \"Archfiend\" card.)",
+    "The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck."
+  ]
+}

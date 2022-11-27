@@ -1,0 +1,21 @@
+{
+  "card_name": "Relinquished Anima",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Spellcaster",
+    "Link",
+    "Effect"
+  ],
+  "card_arrows": [
+    "Top-Center"
+  ],
+  "card_vals": [
+    "0",
+    "1"
+  ],
+  "card_text": [
+    "1 Level 1 monster, except a Token",
+    "You can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's."
+  ]
+}

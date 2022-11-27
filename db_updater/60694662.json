@@ -1,0 +1,18 @@
+{
+  "card_name": "Skelengel",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Fairy",
+    "Flip",
+    "Effect"
+  ],
+  "card_level": "2",
+  "card_vals": [
+    "900",
+    "400"
+  ],
+  "card_text": [
+    "FLIP: Draw 1 card."
+  ]
+}

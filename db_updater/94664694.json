@@ -1,0 +1,17 @@
+{
+  "card_name": "Mad Archfiend",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Fiend",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1800",
+    "0"
+  ],
+  "card_text": [
+    "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Attack Position card is targeted for an attack: Change it to Defense Position."
+  ]
+}

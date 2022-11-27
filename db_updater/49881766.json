@@ -1,0 +1,16 @@
+{
+  "card_name": "Archfiend Soldier",
+  "card_type": "Monster",
+  "card_attribute": "DARK",
+  "card_types": [
+    "Fiend"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1900",
+    "1500"
+  ],
+  "card_text": [
+    "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done."
+  ]
+}

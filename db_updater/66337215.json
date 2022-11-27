@@ -1,0 +1,17 @@
+{
+  "card_name": "Herald of Creation",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Spellcaster",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1800",
+    "600"
+  ],
+  "card_text": [
+    "Once per turn: You can discard 1 card, then target 1 Level 7 or higher monster in your Graveyard; add that target to your hand."
+  ]
+}

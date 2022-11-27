@@ -1,0 +1,17 @@
+{
+  "card_name": "Mystical Elf",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Spellcaster",
+    "Normal"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "800",
+    "2000"
+  ],
+  "card_text": [
+    "A delicate elf that lacks offense, but has a terrific defense backed by mystical power."
+  ]
+}

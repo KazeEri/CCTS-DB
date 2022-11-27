@@ -1,0 +1,17 @@
+{
+  "card_name": "Droll & Lock Bird",
+  "card_type": "Monster",
+  "card_attribute": "WIND",
+  "card_types": [
+    "Spellcaster",
+    "Effect"
+  ],
+  "card_level": "1",
+  "card_vals": [
+    "0",
+    "0"
+  ],
+  "card_text": [
+    "If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "card_name": "Maha Vailo",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Spellcaster",
+    "Effect"
+  ],
+  "card_level": "4",
+  "card_vals": [
+    "1550",
+    "1400"
+  ],
+  "card_text": [
+    "Gains 500 ATK for each Equip Card equipped to this card."
+  ]
+}

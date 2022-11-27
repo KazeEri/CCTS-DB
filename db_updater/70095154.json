@@ -1,0 +1,17 @@
+{
+  "card_name": "Cyber Dragon",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Machine",
+    "Effect"
+  ],
+  "card_level": "5",
+  "card_vals": [
+    "2100",
+    "1600"
+  ],
+  "card_text": [
+    "If only your opponent controls a monster, you can Special Summon this card (from your hand)."
+  ]
+}

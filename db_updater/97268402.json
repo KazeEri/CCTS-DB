@@ -1,0 +1,18 @@
+{
+  "card_name": "Effect Veiler",
+  "card_type": "Monster",
+  "card_attribute": "LIGHT",
+  "card_types": [
+    "Spellcaster",
+    "Tuner",
+    "Effect"
+  ],
+  "card_level": "1",
+  "card_vals": [
+    "0",
+    "0"
+  ],
+  "card_text": [
+    "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn."
+  ]
+}

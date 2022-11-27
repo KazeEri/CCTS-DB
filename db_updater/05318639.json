@@ -1,0 +1,8 @@
+{
+  "card_name": "Mystical Space Typhoon",
+  "card_type": "Spell",
+  "card_property": "Quick-Play",
+  "card_text": [
+    "Target 1 Spell/Trap on the field; destroy that target."
+  ]
+}

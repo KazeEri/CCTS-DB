@@ -1,0 +1,8 @@
+{
+  "card_name": "Smashing Ground",
+  "card_type": "Spell",
+  "card_property": "Normal",
+  "card_text": [
+    "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied)."
+  ]
+}

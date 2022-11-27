@@ -1,0 +1,19 @@
+{
+  "card_name": "Lyrilusc - Promenade Thrush",
+  "card_type": "Monster",
+  "card_attribute": "WIND",
+  "card_types": [
+    "Winged Beast",
+    "Xyz",
+    "Effect"
+  ],
+  "card_rank": "1",
+  "card_vals": [
+    "0",
+    "0"
+  ],
+  "card_text": [
+    "2+ Level 1 monsters",
+    "Gains 500 ATK for each material attached to it. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap your opponent controls; shuffle it into the Deck. At the start of the Damage Step, if another monster you control battles: You can detach any number of materials from this card; that monster you control gains 300 ATK for each material detached, until the end of this turn."
+  ]
+}
