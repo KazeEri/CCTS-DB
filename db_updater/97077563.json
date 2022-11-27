@@ -1,6 +1,7 @@
 {
   "card_name": "Call of the Haunted",
-  "card_type": "Call Of The Haunted",
+  "card_type": "Trap",
+  "card_property": "Continuous",
   "card_text": [
     "Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card."
   ]

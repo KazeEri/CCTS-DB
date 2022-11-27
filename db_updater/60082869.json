@@ -1,6 +1,7 @@
 {
   "card_name": "Dust Tornado",
   "card_type": "Trap",
+  "card_property": "Normal",
   "card_text": [
     "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand."
   ]

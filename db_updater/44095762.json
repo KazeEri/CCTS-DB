@@ -1,6 +1,7 @@
 {
   "card_name": "Mirror Force",
   "card_type": "Trap",
+  "card_property": "Normal",
   "card_text": [
     "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters."
   ]
